@@ -1,0 +1,10 @@
+{
+  "name": "@msfeldstein/three-mouse-follow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msfeldstein/three-mouse-follow"
+  }
+}
